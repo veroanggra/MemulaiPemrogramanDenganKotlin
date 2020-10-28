@@ -1,0 +1,32 @@
+# Project exclude paths
+/.gradle/
+/Coroutines/Channels/Contoh/build/
+/Coroutines/Channels/Contoh/build/classes/java/main/
+/Coroutines/Coroutine Dispatcher/Dispatcher.Default/build/
+/Coroutines/Coroutine Dispatcher/Dispatcher.Default/build/classes/java/main/
+/Coroutines/Coroutine Dispatcher/Dispatcher.IO/build/
+/Coroutines/Coroutine Dispatcher/Dispatcher.IO/build/classes/java/main/
+/Coroutines/Coroutine Dispatcher/Dispatcher.Unconfined/build/
+/Coroutines/Coroutine Dispatcher/Dispatcher.Unconfined/build/classes/java/main/
+/Coroutines/Coroutine Dispatcher/Single Thread Context/build/
+/Coroutines/Coroutine Dispatcher/Single Thread Context/build/classes/java/main/
+/Coroutines/Coroutine Dispatcher/Thread Pool/build/
+/Coroutines/Coroutine Dispatcher/Thread Pool/build/classes/java/main/
+/Coroutines/Job dan Deferred/Contoh 1/build/
+/Coroutines/Job dan Deferred/Contoh 1/build/classes/java/main/
+/Coroutines/Job dan Deferred/Contoh 2/build/
+/Coroutines/Job dan Deferred/Contoh 2/build/classes/java/main/
+/Coroutines/Job dan Deferred/Contoh 3/build/
+/Coroutines/Job dan Deferred/Contoh 3/build/classes/java/main/
+/Coroutines/Job dan Deferred/Contoh 4/build/
+/Coroutines/Job dan Deferred/Contoh 4/build/classes/java/main/
+/Coroutines/Job dan Deferred/Contoh 5/build/
+/Coroutines/Job dan Deferred/Contoh 5/build/classes/java/main/
+/Coroutines/latihan/Latihan/build/
+/Coroutines/latihan/Latihan/build/classes/java/main/
+/Coroutines/Memulai Coroutine/Contoh 1/build/
+/Coroutines/Memulai Coroutine/Contoh 1/build/classes/java/main/
+/Coroutines/Memulai Coroutine/Contoh 2/build/
+/Coroutines/Memulai Coroutine/Contoh 2/build/classes/java/main/
+/Coroutines/Memulai Coroutine/Contoh 3/build/
+/Coroutines/Memulai Coroutine/Contoh 3/build/classes/java/main/
